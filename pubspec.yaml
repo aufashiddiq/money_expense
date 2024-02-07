@@ -41,6 +41,12 @@ dependencies:
   get: ^4.6.6
   dio: ^5.4.0
   change_app_package_name: ^1.1.0
+  firebase_core: ^2.25.4
+  equatable: ^2.0.5
+  device_info_plus: ^9.1.2
+  image_picker: ^1.0.7
+  pinput: ^3.0.1
+  syncfusion_flutter_datepicker: ^24.2.4
 
 dev_dependencies:
   flutter_test:
